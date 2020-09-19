@@ -5,6 +5,7 @@
 ・git rm
 ・git pull
 ・git status
+・git duff
 <<<<<<< HEAD
 ・push 
 =======
