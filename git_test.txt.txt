@@ -6,8 +6,3 @@
 ・git pull
 ・git status
 ・git duff
-<<<<<<< HEAD
-・push 
-=======
-・pull
->>>>>>> 7a5395fc42e7c0991e2e7520d30f88eccd7e0cb7
